@@ -1,6 +1,7 @@
 body {
 	font-family: 'Ranga', cursive;
-	background-color: #A5D2DA;
+	/*background-color: #A5D2DA;*/
+	background-image: url(../img/background.png); 
 }
 
 .contacts {
