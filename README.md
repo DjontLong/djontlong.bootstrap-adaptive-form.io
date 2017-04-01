@@ -1,3 +1,5 @@
+https://djontlong.github.io/djontlong.bootstrap-adaptive-form.io/
+
 <h1>Адаптивная форма на Bootsrap для сайта с работающей отправкой сообщений</h1>
 <p></p>
 
